@@ -2,15 +2,6 @@
 Hassan Shah Portfolio
 -->
 
-# About
-
-Solving problems and driving insights in Finance, Healthcare, Education, Budgets, etc. with Data
-
-For collaboration or inquiries, contact me at [hassanhshah@gmail.com](mailto:hassanhshah@gmail.com)
-
----
-
-
 # Past Projects
 
 ## [Transforming Image Captioning: Integrating SwinV2, CSwin, and DeiT Architectures into the Pure Transformer (PureT) Model](https://github.com/hhsusc/Transformers-Image-Captioning/blob/main/paper/Transformers%20Image%20Captioning.pdf)
