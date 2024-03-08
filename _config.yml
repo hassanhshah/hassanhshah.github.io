@@ -1,4 +1,4 @@
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
 title: Hassan Shah Portfolio
 plugins:
   - jekyll-feed
