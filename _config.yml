@@ -1,0 +1,5 @@
+theme: jekyll-theme-minima
+title: Hassan Shah Portfolio
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
