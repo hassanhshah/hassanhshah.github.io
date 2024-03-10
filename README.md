@@ -4,6 +4,14 @@ Hassan Shah Portfolio
 
 # Past Projects
 
+## [Backtest AI](https://github.com/hassanhshah/backtest_ai_app)
+* AI-Enhanced Portfolio Management: Utilizes artificial intelligence to offer personalized portfolio building and optimization, streamlining the investment strategy process with advanced analytics and insights.
+* Comprehensive Trading Simulator: Features a sophisticated trading simulator for backtesting investment strategies, enabling users to evaluate the potential performance of their portfolios under various market conditions.
+* Educational Tool for Investment Strategies: Serves as an invaluable resource for both novice and experienced investors, offering educational insights and simulations to demystify complex investment concepts and strategies.
+
+![](/images/ai_portfolio.png)
+![](/images/trading_simulator.png)
+
 ## [Transforming Image Captioning: Integrating SwinV2, CSwin, and DeiT Architectures into the Pure Transformer (PureT) Model](https://github.com/hhsusc/Transformers-Image-Captioning/blob/main/paper/Transformers%20Image%20Captioning.pdf)
 * Replicated and enhanced the PureT model with SwinV2, CSwin, and DeiT backbones, improving image captioning efficiency and performance
 * Achieved a higher CIDEr score than the original model in fewer epochs with reduced training resources
