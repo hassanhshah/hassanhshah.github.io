@@ -78,5 +78,3 @@ Hassan Shah Portfolio
 * Wrote an accompanying paper highlighting the abilities of modern ML algorithms to detect different cancers
 
 ![](/images/Models.png)
-
----
