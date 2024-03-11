@@ -4,7 +4,7 @@ Hassan Shah Portfolio
 
 # Past Projects
 
-## [BacktestAI](https://github.com/hassanhshah/backtest_ai_app)
+## [BacktestAI](https://github.com/hassanhshah/backtestai)
 * AI-Enhanced Portfolio Management: Utilizes artificial intelligence to offer personalized portfolio building and optimization, streamlining the investment strategy process with advanced analytics and insights
 * Comprehensive Trading Simulator: Features a sophisticated trading simulator for backtesting investment strategies, enabling users to evaluate the potential performance of their portfolios under various market conditions
 * Educational Tool for Investment Strategies: Serves as an invaluable resource for both novice and experienced investors, offering educational insights and simulations to demystify complex investment concepts and strategies
