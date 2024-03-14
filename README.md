@@ -49,10 +49,10 @@ Hassan Shah Portfolio
 
 ![](/images/Squirrel.png)
 
-## [Hybrid Recommender System for Yelp Rating Dataset](https://github.com/hassanhshah/Hybrid_Recommender_System)
+## [Hybrid Recommendation Model for Yelp Ratings](https://github.com/hassanhshah/Hybrid-Yelp-Recommendation-System)
 * Constructed a hybrid recommender system that utilizes both content-filtering and item-based discovery to predict users' ratings of businesses on Yelp
 * Used Spark RDD to compute 150,000 businesses' ratings in seconds
-* Algorithm ranked 13th out of 232 students in Graduate Data Mining Course  
+* Algorithm ranked 13th out of 232 students in Graduate Data Mining Course
 
 ![](/images/Yelp.png)
 
