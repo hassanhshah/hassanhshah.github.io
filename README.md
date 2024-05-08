@@ -11,8 +11,8 @@ Hassan Shah Portfolio
 
 ![](/images/gata_logo.png)
 
-<video src="images/GATA-how_it_works.mp4" controls width="100%"></video>
 
+<video src="images/GATA-how_it_works.mp4" controls width="100%"></video>
 
 
 
