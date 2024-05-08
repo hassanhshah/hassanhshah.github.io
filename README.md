@@ -14,9 +14,7 @@ Hassan Shah Portfolio
 
 <video src="https://github.com/hassanhshah/hassanhshah.github.io/assets/98497536/f61b79fc-4888-4ccc-9ab2-f1434e45d6a5" controls width="100%"></video>  
   
-
-
-
+\
 ## [BacktestAI](https://github.com/hassanhshah/backtestai)
 * AI-Enhanced Portfolio Management: Utilizes artificial intelligence to offer personalized portfolio building and optimization, streamlining the investment strategy process with advanced analytics and insights
 * Comprehensive Trading Simulator: Features a sophisticated trading simulator for backtesting investment strategies, enabling users to evaluate the potential performance of their portfolios under various market conditions
@@ -25,6 +23,7 @@ Hassan Shah Portfolio
 ![](/images/ai_portfolio.png)
 ![](/images/trading_simulator.png)
 
+\
 ## [Transforming Image Captioning: Integrating SwinV2, CSwin, and DeiT Architectures into the Pure Transformer (PureT) Model](https://github.com/hhsusc/Transformers-Image-Captioning/blob/main/paper/Transformers%20Image%20Captioning.pdf)
 * Replicated and enhanced the PureT model with SwinV2, CSwin, and DeiT backbones, improving image captioning efficiency and performance
 * Achieved a higher CIDEr score than the original model in fewer epochs with reduced training resources
@@ -32,6 +31,7 @@ Hassan Shah Portfolio
 
 ![](/images/Paper2.png)
 
+\
 ## [COVID Vaccine Sentiment and Time Series Analysis](https://www.kaggle.com/code/hassanhshah/covid-vaccine-sentiment-and-time-series-analysis)
 * Used natural language processing to analyze sentiment towards COVID-19 vaccines on Twitter (200,000+ Tweets)  
 * Identified key themes in the discourse around vaccines, such as safety, efficacy, and social responsibility
@@ -39,6 +39,7 @@ Hassan Shah Portfolio
 
 ![](/images/Time_Series.png)
 
+\
 ## [clearbudgets.com](https://clearbudgets.com)
 * Developed a [web app](https://github.com/hassanhshah/ClearBudget) that allows student organizations to track their spending and reimburse purchases efficiently  
 * Provided accounting for over $25,000 of purchases by piloting with two USC student organizations  
@@ -48,6 +49,7 @@ Hassan Shah Portfolio
 
 ![](/images/Requests.png)
 
+\
 ## [AgentAI (Streamlit GPT Chatbot with Context)](https://github.com/hassanhshah/GPTChatbot)
 * Set up a chatbot using OpenAI's GPT API with attention and personal assistant capabilities 
 * Chatbot can be customized to fulfill specific personal use cases and call other APIs
@@ -55,6 +57,7 @@ Hassan Shah Portfolio
 
 ![](/images/Chatbot.png)
 
+\
 ## [Predicting Squirrel Movements in Central Park](https://github.com/hassanhshah/Squirrel_Prediction)
 * Fit an XGBoost Model on data from the movements of squirrels in Central Park using a variety of methods, including GPS tracking and camera traps
 * Also used tree-based models to assess the relative importance of various features
@@ -62,6 +65,7 @@ Hassan Shah Portfolio
 
 ![](/images/Squirrel.png)
 
+\
 ## [Hybrid Recommendation Model for Yelp Ratings](https://github.com/hassanhshah/Hybrid-Yelp-Recommendation-System)
 * Constructed a hybrid recommender system that utilizes both content-filtering and item-based discovery to predict users' ratings of businesses on Yelp
 * Used Spark RDD to compute 150,000 businesses' ratings in seconds
@@ -69,6 +73,7 @@ Hassan Shah Portfolio
 
 ![](/images/Yelp.png)
 
+\
 ## [Heart Disease Exploratory Data Analysis and Classification](https://www.kaggle.com/code/hassanhshah/heart-disease-eda-classification-90-accuracy)
 * Performed exploratory data analysis on a dataset of heart disease patient records from the UCI Machine Learning Repository  
 * Identified the most common risk factors for heart disease, which were chest pain type, number of major vessels colored by fluoroscopy, and cholesterol
@@ -76,6 +81,7 @@ Hassan Shah Portfolio
 
 ![](/images/Cholesterol.png)
 
+\
 ## [Image and Character Classification Using Neural Networks](https://github.com/hassanhshah/Image_and_Character_Classification)
 * Used TensorFlow and CNN architecture to detect images and Chinese characters
 * Achieved Chinese character recognition > 90%
