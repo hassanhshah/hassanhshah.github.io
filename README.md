@@ -10,7 +10,8 @@ Hassan Shah Portfolio
 * Customizable Chat Content: Features a user-friendly interface built with Streamlit, enabling instructors to easily customize and update the chatbot’s knowledge base to align with specific course requirements.
 
 ![](/images/gata_logo.png)
-![](/images/GATA-how_it_works.mp4)
+
+[![](/images/GATA-how_it_works.mp4)](https://github.com/hassanhshah/hassanhshah.github.io/blob/main/images/GATA-how_it_works.mp4)
 
 
 
