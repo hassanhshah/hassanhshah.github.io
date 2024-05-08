@@ -9,8 +9,7 @@ Hassan Shah Portfolio
 * Rapid Response Generation: Powered by OpenAI’s foundational language models, GATA delivers precise and context-aware answers within seconds, ensuring prompt and accurate teaching assistance.
 * Customizable Chat Content: Features a user-friendly interface built with Streamlit, enabling instructors to easily customize and update the chatbot’s knowledge base to align with specific course requirements.
 
-<img width="100" alt="gata_logo" src="https://github.com/hassanhshah/hassanhshah.github.io/assets/98497536/578db186-0502-40b2-bf5d-31e0d98fe13b">
-https://github.com/hassanhshah/hassanhshah.github.io/assets/98497536/1dce449b-7e67-4b97-9318-0959e78c3276
+
 
 
 
