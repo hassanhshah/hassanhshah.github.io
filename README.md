@@ -11,7 +11,9 @@ Hassan Shah Portfolio
 
 ![](/images/gata_logo.png)
 
-https://www.youtube.com/watch?v=PGZ1gMrjBu4&t=1s
+https://github.com/hassanhshah/hassanhshah.github.io/assets/98497536/f61b79fc-4888-4ccc-9ab2-f1434e45d6a5
+
+
 
 
 ## [BacktestAI](https://github.com/hassanhshah/backtestai)
