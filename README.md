@@ -12,7 +12,7 @@ Hassan Shah Portfolio
 ![](/images/gata_logo.png)
 
 
-<video src="[images/GATA-how_it_works.mp4](https://github.com/hassanhshah/hassanhshah.github.io/assets/98497536/f61b79fc-4888-4ccc-9ab2-f1434e45d6a5)" controls width="100%"></video>
+<video src="https://github.com/hassanhshah/hassanhshah.github.io/assets/98497536/f61b79fc-4888-4ccc-9ab2-f1434e45d6a5" controls width="100%"></video>
 
 
 
