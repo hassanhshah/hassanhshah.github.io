@@ -11,8 +11,7 @@ Hassan Shah Portfolio
 
 ![](/images/gata_logo.png)
 
-![](/images/GATA-how_it_works.mp4)
-
+https://www.youtube.com/watch?v=PGZ1gMrjBu4&t=1s
 
 
 ## [BacktestAI](https://github.com/hassanhshah/backtestai)
