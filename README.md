@@ -4,6 +4,17 @@ Hassan Shah Portfolio
 
 # Past Projects
 
+## [GATA (Generative AI Teaching Assistant)](https://github.com/hassanhshah/GATA)
+* Multimodal Course Material: Utilizes Langchain’s retrieval libraries and FAISS vector databases to swiftly retrieve a broad spectrum of course materials, including lecture videos, slides, textbooks, and syllabi, providing students with comprehensive and relevant content instantly.
+* Rapid Response Generation: Powered by OpenAI’s foundational language models, GATA delivers precise and context-aware answers within seconds, ensuring prompt and accurate teaching assistance.
+* Customizable Chat Content: Features a user-friendly interface built with Streamlit, enabling instructors to easily customize and update the chatbot’s knowledge base to align with specific course requirements.
+
+<img width="100" alt="gata_logo" src="https://github.com/hassanhshah/hassanhshah.github.io/assets/98497536/578db186-0502-40b2-bf5d-31e0d98fe13b">
+https://github.com/hassanhshah/hassanhshah.github.io/assets/98497536/1dce449b-7e67-4b97-9318-0959e78c3276
+
+
+
+
 ## [BacktestAI](https://github.com/hassanhshah/backtestai)
 * AI-Enhanced Portfolio Management: Utilizes artificial intelligence to offer personalized portfolio building and optimization, streamlining the investment strategy process with advanced analytics and insights
 * Comprehensive Trading Simulator: Features a sophisticated trading simulator for backtesting investment strategies, enabling users to evaluate the potential performance of their portfolios under various market conditions
