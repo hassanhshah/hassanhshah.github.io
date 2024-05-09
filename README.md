@@ -21,8 +21,9 @@ Hassan Shah Portfolio
 * Comprehensive Trading Simulator: Features a sophisticated trading simulator for backtesting investment strategies, enabling users to evaluate the potential performance of their portfolios under various market conditions
 * Educational Tool for Investment Strategies: Serves as an invaluable resource for both novice and experienced investors, offering educational insights and simulations to demystify complex investment concepts and strategies
 
-![](/images/ai_portfolio.png)
-![](/images/trading_simulator.png)
+![](/images/backtestai_logo.jpeg)
+
+<video src="https://github.com/hassanhshah/hassanhshah.github.io/assets/98497536/d3ac9ef3-a1dc-4f42-969a-2ed967901a69" controls width="100%"></video>
 
 <br />
 
