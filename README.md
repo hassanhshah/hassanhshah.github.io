@@ -5,9 +5,9 @@ Hassan Shah Portfolio
 # Past Projects
 
 ## [GATA (Generative AI Teaching Assistant)](https://github.com/hassanhshah/GATA)
-* Multimodal Course Material: Utilizes Langchain’s retrieval libraries and FAISS vector databases to swiftly retrieve a broad spectrum of course materials, including lecture videos, slides, textbooks, and syllabi, providing students with comprehensive and relevant content instantly.
-* Rapid Response Generation: Powered by OpenAI’s foundational language models, GATA delivers precise and context-aware answers within seconds, ensuring prompt and accurate teaching assistance.
-* Customizable Chat Content: Features a user-friendly interface built with Streamlit, enabling instructors to easily customize and update the chatbot’s knowledge base to align with specific course requirements.
+* Utilizes Langchain’s retrieval libraries and FAISS vector databases to retrieve a broad spectrum of course materials, including lecture videos, slides, textbooks, and syllabi, providing students with comprehensive and relevant content in seconds
+* Powered by OpenAI’s foundational language models, GATA delivers precise and context-aware answers within seconds, ensuring prompt and accurate teaching assistance
+* Features a user-friendly interface built with Streamlit, enabling instructors to easily customize and update the chatbot’s knowledge base to align with specific course requirements
 
 ![](/images/gata_logo.png)
 
@@ -17,9 +17,9 @@ Hassan Shah Portfolio
 <br />
 
 ## [BacktestAI](https://github.com/hassanhshah/backtestai)
-* AI-Enhanced Portfolio Management: Utilizes artificial intelligence to offer personalized portfolio building and optimization, streamlining the investment strategy process with advanced analytics and insights
-* Comprehensive Trading Simulator: Features a sophisticated trading simulator for backtesting investment strategies, enabling users to evaluate the potential performance of their portfolios under various market conditions
-* Educational Tool for Investment Strategies: Serves as an invaluable resource for both novice and experienced investors, offering educational insights and simulations to demystify complex investment concepts and strategies
+* Utilizes artificial intelligence to offer personalized portfolio building and optimization, streamlining the investment strategy process with advanced analytics and insights
+* Features a sophisticated trading simulator for backtesting investment strategies, enabling users to evaluate the potential performance of their portfolios under various market conditions
+* Serves as an invaluable resource for both novice and experienced investors, offering educational insights and simulations to demystify complex investment concepts and strategies
 
 ![](/images/backtestai_logo.jpeg)
 
