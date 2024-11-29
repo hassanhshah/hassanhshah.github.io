@@ -3,7 +3,7 @@ title: Hassan Shah Portfolio
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-logo: images/photo.png
+logo: images/photo_grad.png
 description: |
   Solving problems and driving insights in Finance, Healthcare, Education, Budgets, etc. with Data.  
   
