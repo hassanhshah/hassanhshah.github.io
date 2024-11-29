@@ -5,7 +5,7 @@ Hassan Shah Portfolio
 # Past Projects
 
 ## [GATA (Generative AI Teaching Assistant)](https://github.com/hassanhshah/GATA)
-* Utilizes Langchain’s retrieval libraries and FAISS vector databases to retrieve a broad spectrum of course materials, including lecture videos, slides, textbooks, and syllabi, providing students with comprehensive and relevant content in seconds
+* Utilizes Langchain’s retrieval libraries and FAISS vector databases to retrieve course materials, including lecture videos, slides, textbooks, and syllabi, providing students with comprehensive and relevant content in seconds
 * Powered by OpenAI’s foundational language models, GATA delivers precise and context-aware answers within seconds, ensuring prompt and accurate teaching assistance
 * Features a user-friendly interface built with Streamlit, enabling instructors to easily customize and update the chatbot’s knowledge base to align with specific course requirements
 
@@ -17,9 +17,9 @@ Hassan Shah Portfolio
 <br />
 
 ## [BacktestAI](https://github.com/hassanhshah/backtestai)
-* Utilizes artificial intelligence to offer personalized portfolio building and optimization, streamlining the investment strategy process with advanced analytics and insights
-* Features a sophisticated trading simulator for backtesting investment strategies, enabling users to evaluate the potential performance of their portfolios under various market conditions
-* Serves as an invaluable resource for both novice and experienced investors, offering educational insights and simulations to demystify complex investment concepts and strategies
+* Utilizes LLMs to offer personalized portfolio building and optimization, streamlining investment strategy ideation with test portfolios in seconds
+* Features a realistic trading simulator for backtesting investment strategies, enabling users to assess the performance of their portfolios under various market conditions
+* Works for both beginners looking to develop their investment skills and experienced investors looking to quickly develop and experiment with different portfolios
 
 ![](/images/backtestai_logo.jpeg)
 
